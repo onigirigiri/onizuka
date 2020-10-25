@@ -41,3 +41,149 @@
 .wrapper{
     display: flex;
 }
+
+.wrapper{
+    display: flex;
+}
+
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.a2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.a3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.a4{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.a5{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.a6{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.c1{ 
+    display: flex;
+    flex-flow:
+    column wrap;
+    width: 300px;
+    height: 200px;
+}
+.c2{ 
+    widows: 100px;
+    height: 50%;
+    background: blue;
+}
+.c3{
+    width: 100px;
+    height: 50%;
+    background: red;
+}
+.c4{
+    width: 100px;
+    height: 33%;
+    background: black;
+}
+.c5{
+    width: 100px;
+    height: 33%;
+    background: green;
+}
+.c6{
+    width: 100px;
+    height: 34%;
+    background: blue;
+}
+.c7{
+    width: 100px;
+    height: 15%;
+    background: red;
+}
+.c8{
+    width: 100px;
+    height: 35%;
+    background: yellow;
+}
+.c9{
+    width: 100px;
+    height: 50%;
+    background: green;
+}
+
+.Flex {
+    display: flex;
+    }
+    .Flex_SpaceAround_Center_Wrap {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; 
+    flex-wrap: wrap; 
+    }
+    .Background_Blue {
+    background: blue;
+    }
+    .Background_Red {
+    background: red;
+    }
+    .Background_Yellow {
+    background: yellow;
+    }
+    .Background_Green {
+    background: green;
+    }
+    .Size_W70px_H70px {
+    width: 30px; height: 30px;
+    }
+    .Size_W300px {
+    width: 300px;
+    }
+    .Size_Hpx {
+    height: 200px;
+    }
+    .Size_H70px {
+    height: 70px;
+    }
+    
+
+    .Flex {
+        display: flex;
+        }
+        .Background_Blue {
+        background: blue;
+        }
+        .Background_Red {
+        background: red;
+        }
+        .Background_Black {
+        background: black;
+        }
+        .Background_Green {
+        background: green;
+        }
+        .Size_W300px_H30px {
+        width: 300px;
+        height: 30px;
+        }
+        .Size_H140px {
+        height: 140px;
+        }
